@@ -19,5 +19,7 @@ Smart contracts are deployed using Truffle, HardHat, DappTools, Brownie, Foundry
 Yes, because the transaction will remain locked until confirmReceived() is called. The new design is better and more gas efficient.
 
 ### Question 6 and 8 can be seen in the following links, explained in the respective markdown files 
-[Question 6]()
+[Question 6](https://github.com/lopeselio/zkuTasks/blob/master/Question%206/Readme.md)
+
+
 [Question 8]()
