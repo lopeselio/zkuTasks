@@ -21,6 +21,8 @@ After 5 minutes of purchasing
 ![image](https://user-images.githubusercontent.com/43913734/172210629-c86d832f-703e-49bd-88b2-28598ecf7d77.png)
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/43913734/172210714-70493fda-57d1-4cb6-9e7e-759c819d9821.png">
 
+# Before 5 minutes executing completePurchase:
+<img width="1070" alt="image" src="https://user-images.githubusercontent.com/43913734/172212238-040edfc1-e5e5-4b17-bb3a-c40bd01547dd.png">
 
 
 
