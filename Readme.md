@@ -22,4 +22,4 @@ Yes, because the transaction will remain locked until confirmReceived() is calle
 [Question 6](https://github.com/lopeselio/zkuTasks/blob/master/Question%206/Readme.md)
 
 
-[Question 8]()
+[Question 8](https://github.com/lopeselio/zkuTasks/blob/master/Question%208/Readme.md)
